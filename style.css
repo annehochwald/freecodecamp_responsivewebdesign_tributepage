@@ -1,0 +1,98 @@
+html {
+  font-size: 10px;
+  color: canvastext;
+}
+
+body {
+  font-family: Tahoma, Helvetica;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: white;
+  margin: 10;
+}
+
+#main {
+  margin: 30px, 8px;
+  padding: 20px;
+  border-radius: 5px;
+  background: #0D5311;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0.5;
+  font-weight: bold;
+}
+
+figure {
+  display: block;
+}
+
+#img-div {
+  background: #E3E00A;
+  padding: 15px;
+  margin: 0;
+  border-radius: 10px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 15 auto;
+  border-radius: 10px;
+}
+
+figcaption {
+  display: block;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+  color: black;
+}
+
+h2 {
+  display: block;
+  font-size: 2.2rem;
+}
+
+#headline {
+  margin: 30px 0;
+  text-align: center;
+}
+
+ul {
+  max-width: 600px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  display: block;
+  list-style-type: disc;
+}
+
+li {
+  margin: 16px 0;
+  display: list-item;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 595px;
+  margin: 0 auto 50px auto;
+  text-align: center;
+}
+
+a:any-link {
+  text-decoration-line: underline;
+  cursor: auto;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover {
+  color: red;
+}
